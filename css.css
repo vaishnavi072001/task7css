@@ -1,0 +1,140 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.TopParent{
+    background-color: rgb(102, 205, 205);
+    /* padding: 20px; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.child{
+    width: 400px;
+    background-color: white;
+    margin: 10px;
+    padding: 15px;
+    
+}
+
+.topone{ display: flex;
+    justify-content: flex-start;
+    gap: 25px;
+    margin: 5px;
+}
+.middleone{
+    font-weight: 700;
+    margin: 5px;
+}
+.lastone{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.fa-star{
+    color: green;
+}
+.text1{
+    text-decoration: none;
+}
+.topone2nd{
+    display: flex;
+    justify-content: flex-start;
+    gap: 25px;
+    margin: 5px;
+}
+.middleone2nd{
+    font-weight: 700;
+    margin: 5px;
+}
+.lastone2nd{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.text2{
+    text-decoration: none;
+}
+.topone3rd{
+    display: flex;
+    justify-content: flex-start;
+    gap: 25px;
+    margin: 5px;
+}
+.middleone3rd{
+    font-weight: 700;
+    margin: 5px;
+}
+.lastone3rd{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.text3{
+    text-decoration: none;
+}
+.topone4th{
+    display: flex;
+    justify-content: flex-start;
+    gap: 25px;
+    margin: 5px;
+}
+.middleone4th{
+    font-weight: 700;
+    margin: 5px;
+}
+.lastone4th{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.text4{
+    text-decoration: none;
+}
+.topone5th{
+    display: flex;
+    justify-content: flex-start;
+    gap: 25px;
+    margin: 5px;
+}
+.middleone5th{
+    font-weight: 700;
+    margin: 5px;
+}
+.lastone5th{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.text5{
+    text-decoration: none;
+}
+.topone6th{
+    display: flex;
+    justify-content: flex-start;
+    gap: 25px;
+    margin: 5px;
+}
+.middleone6th{
+    font-weight: 700;
+    margin: 5px;
+}
+.lastone6th{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.text6{
+    text-decoration: none;
+}
+#drop,#shop, #sales{
+    border: 1px solid black;
+}
